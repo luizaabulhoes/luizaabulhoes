@@ -84,5 +84,7 @@ In **2023**, I completed an intensive **Data Analytics course at Le Wagon**, foc
 ### 💬 About me
 
 🎯 Interests: Data analysis, strategic marketing, and financial performance
+
 🌍 Languages: **Portuguese, English, French, and Spanish (advanced)**  
+
 📚 Always learning and using data to generate **insights that drive business impact.**
