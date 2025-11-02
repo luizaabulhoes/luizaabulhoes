@@ -34,14 +34,6 @@ In **2023**, I completed an intensive **Data Analytics course at Le Wagon**, foc
 />
 <img 
     align="left" 
-    alt="Looker Studio" 
-    title="Looker Studio" 
-    width="40px" 
-    style="padding-right:10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Google_Looker_Studio_Logo.svg"
-/>
-<img 
-    align="left" 
     alt="Excel" 
     title="Excel" 
     width="40px" 
