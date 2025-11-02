@@ -44,14 +44,6 @@ In **2023**, I completed an intensive **Data Analytics course at Le Wagon**, foc
 />
 <img 
     align="left" 
-    alt="dbt" 
-    title="dbt" 
-    width="40px" 
-    style="padding-right:10px;" 
-    src="assets/dbt.png"
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git" 
     width="40px" 
