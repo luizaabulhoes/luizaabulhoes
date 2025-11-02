@@ -62,20 +62,20 @@ In **2023**, I completed an intensive **Data Analytics course at Le Wagon**, foc
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Connect with me
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/marialuizabulhoes" target="_blank">
+    <a href="https://www.linkedin.com/in/maria-luiza-bulh%C3%B5es-472949a0/" target="_blank">
         <img 
             alt="LinkedIn" 
-            title="Meu LinkedIn" 
+            title="My LinkedIn" 
             src="https://img.shields.io/badge/-Maria%20Lu%C3%ADza%20Bulh%C3%B5es-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="mailto:luizaabulhoes@gmail.com" target="_blank">
         <img 
             alt="Gmail" 
-            title="Enviar e-mail" 
+            title="Send Email" 
             src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
