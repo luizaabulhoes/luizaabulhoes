@@ -8,8 +8,6 @@ In **2023**, I completed an intensive **Data Analytics course at Le Wagon**, foc
 
 ### 🧠 Tools & Technologies
 
-### 🧠 Tools & Technologies
-
 <img 
     align="left" 
     alt="SQL" 
