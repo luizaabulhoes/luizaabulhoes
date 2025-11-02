@@ -22,7 +22,7 @@ In **2023**, I completed an intensive **Data Analytics course at Le Wagon**, foc
     title="BigQuery" 
     width="40px" 
     style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+    src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/e07c8ee2-6ac5-4eec-8ec6-9464879ef167.png"
 />
 <img 
     align="left" 
