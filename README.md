@@ -8,6 +8,8 @@ In **2023**, I completed an intensive **Data Analytics course at Le Wagon**, foc
 
 ### 🧠 Tools & Technologies
 
+### 🧠 Tools & Technologies
+
 <img 
     align="left" 
     alt="SQL" 
@@ -42,6 +44,14 @@ In **2023**, I completed an intensive **Data Analytics course at Le Wagon**, foc
 />
 <img 
     align="left" 
+    alt="dbt" 
+    title="dbt" 
+    width="40px" 
+    style="padding-right:10px;" 
+    src="https://docs.getdbt.com/_images/dbt-logo-icon.svg"
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git" 
     width="40px" 
@@ -58,6 +68,7 @@ In **2023**, I completed an intensive **Data Analytics course at Le Wagon**, foc
 />
 
 <br/><br/>
+
 
 ---
 
