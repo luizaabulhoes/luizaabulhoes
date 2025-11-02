@@ -38,7 +38,7 @@ In **2023**, I completed an intensive **Data Analytics course at Le Wagon**, foc
     title="Looker Studio" 
     width="40px" 
     style="padding-right:10px;" 
-    src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_looker_studio.svg"
+    src="https://www.vectorlogo.zone/logos/google_lookerstudio/google_lookerstudio-icon.svg"
 />
 <img 
     align="left" 
@@ -46,7 +46,7 @@ In **2023**, I completed an intensive **Data Analytics course at Le Wagon**, foc
     title="Excel" 
     width="40px" 
     style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg"
+    src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"
 />
 <img 
     align="left" 
@@ -66,6 +66,7 @@ In **2023**, I completed an intensive **Data Analytics course at Le Wagon**, foc
 />
 
 <br/><br/>
+
 ---
 
 ### 💬 About me
