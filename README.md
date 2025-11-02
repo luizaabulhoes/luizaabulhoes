@@ -31,14 +31,13 @@ In **2023**, I completed an intensive **Data Analytics course at Le Wagon**, foc
     width="40px" 
     style="padding-right:10px;" 
     src="https://img.icons8.com/color/48/power-bi.png"
-/>
 <img 
     align="left" 
     alt="Looker Studio" 
     title="Looker Studio" 
     width="40px" 
     style="padding-right:10px;" 
-    src="https://www.vectorlogo.zone/logos/google_lookerstudio/google_lookerstudio-icon.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Google_Looker_Studio_Logo.svg/512px-Google_Looker_Studio_Logo.svg.png"
 />
 <img 
     align="left" 
